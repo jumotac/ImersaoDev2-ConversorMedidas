@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Gloss And Bloom', monospace;
+    min-height: 400px;
+    background-image: url('https://i.pinimg.com/originals/dd/e6/32/dde632a76cc20b43c2e8ed1ff7cfb9cf.gif');
+    background-color: #002060;
+    background-size: 70vh;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+}
+
+.page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+}
+
+.page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+    font-family: 'Lucida Console';
+}
+
+.page-logo {
+    width: 200px;
+    position: absolute;
+    bottom: 50px;
+}
+
+.alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
