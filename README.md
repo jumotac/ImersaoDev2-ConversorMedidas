@@ -44,14 +44,9 @@ Calcular a quantidade de água ideal por dia para de você!
 - [Juliana Mota](https://www.linkedin.com/in/jumotac/);
 
 
-
 🌐 **Site no Ar:**
 
-[CONVERSOR DE ML DE ÁGUA POR KG]()
-
-🌐 **Site no Ar:**
-
-[CONVERSOR DE MEDIDAS](https://jumotac.github.io/ImersaoDev2-ConversorMedidas/)
+[CONVERSOR DE ML DE ÁGUA POR KG](https://jumotac.github.io/ImersaoDev2-ConversorMedidas/)
 
 
 
