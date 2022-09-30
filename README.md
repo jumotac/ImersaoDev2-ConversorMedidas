@@ -1,4 +1,14 @@
-# IMERSÃO DEV2 :woman_technologist:
+| :placard: Vitrine.Dev |     |
+| ------------- | --- |
+| :sparkles: Nome | **ALURA: IMERSÃO DEV 2 - Conversor de Medidas** 
+| :label: Tecnologias | JAVASCRIPT, HTML, CSS 
+| :rocket: URL | https://jumotac.github.io/ImersaoDev2-ConversorMedidas/
+| :fire: Desafio | Criar um Conversor de Medidas 
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://raw.githubusercontent.com/jumotac/ImersaoDev2-ConversorMedidas/master/conversor-medidas.png#vitrinedev)
+
+# IMERSÃO DEV2 
 
 Esse foi o meu primeiro contato com a programação e foi amor a primeira vista! Depois dessa imersão da [ALURA](www.alura.com.br) resolvi desbravar e me dedicar a esse universo tão incrível e apaixonante.
 
@@ -39,15 +49,25 @@ Calcular a quantidade de água ideal por dia para de você!
 - Na época não consegui colocar o resultado na tela no lugar da função alert.
 
 
-🔖  **Desenvolvido por:**
+### :wrench:Ferramentas:
 
-- [Juliana Mota](https://www.linkedin.com/in/jumotac/);
+Ferramentas utilizadas para auxiliar na execução do projeto:
+
+- **CodePen** - Primeiro editor de código que tive acesso para dar início a esse projeto
+
+- **Visual Studio Code** - editor de código para colocar o projeto no Github;
+
+- **Github** - Para estruturar o portfólio 
 
 
-🌐 **Site no Ar:**
+🔖  **Agradecimentos:**
 
-[CONVERSOR DE ML DE ÁGUA POR KG](https://jumotac.github.io/ImersaoDev2-ConversorMedidas/)
+- [Paulo Silveira](https://www.linkedin.com/in/paulosilveira/);
+
+- [Rafaella Ballerini](https://www.linkedin.com/in/rafaella-ballerini-45875016a/?originalSubdomain=br);
+- [Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-458925178/)
 
 
 
-![Foto de um copo de água enchendo](/conversor-medidas.png)
+ <p align="center">Desenvolvido 💗 por <a href="https://github.com/jumotac">Ju Mota</a></p>
+
