@@ -1,6 +1,6 @@
 | :placard: Vitrine.Dev |     |
 | ------------- | --- |
-| :sparkles: Nome | **ALURA: IMERSÃO DEV 2 - Conversor de Medidas** 
+| :sparkles: Nome | Alura Imersão Dev2 - **Conversor de Medidas** 
 | :label: Tecnologias | JAVASCRIPT, HTML, CSS 
 | :rocket: URL | https://jumotac.github.io/ImersaoDev2-ConversorMedidas/
 | :fire: Desafio | Criar um Conversor de Medidas 
